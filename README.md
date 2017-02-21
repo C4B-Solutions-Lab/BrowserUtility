@@ -1,9 +1,10 @@
 # Dabrowski Software Development [ JavaScript ] 
-# BrowserUtility (v0.0.9)
+# BrowserUtility (v1.0.0)
 
 - NEW:
  - *#differentiate devices based on operating system. Currently valid and checked OSes are Windows, Windows Phone, Android*
- - <strong>UPLOADED 2016-09-10 16:45:00 GMT +01:00 [FEATURE]</strong>
+ - new enhancements
+ - <strong>UPLOADED 2017-02-21 20:33:00 GMT +01:00 [FEATURE]</strong>
  - 
 - OLD:
  - Simple and easy-to-use JavaScript library that:
