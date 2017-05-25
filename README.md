@@ -23,7 +23,6 @@
    -Simple and easy-to-use JavaScript library that:
  - detects current browser
  - facilitates URL fragment(this thing after # sign) deletion from url address bar (when you move from one bookmark to another on a page, this hash fragment is not shown.
- - redirects to mobile version according to the common pattern,  http://my-site-url.com -> http://m.my-site-url.com  (m. stands for mobile version)
  - creates redirection url to desktop version
  
 - Installation: like any other JS library.
@@ -43,4 +42,4 @@
  - Safari
  - UCBrowser
  
- ### <strong>UPLOADED 2017-05-25 15:31:00 GMT +01:00</strong>
+ ### <strong>UPLOADED 2017-05-25 15:37:00 GMT +01:00</strong>
