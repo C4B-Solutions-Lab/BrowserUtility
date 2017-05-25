@@ -1,6 +1,6 @@
 <img src="https://github.com/Dabrowski-Software-Development/BrowserUtility/blob/master/github_json2sql.png"></img>
 # [ JavaScript ]
-# BrowserUtility &nbsp;&nbsp;&nbsp;:zero:.:zero:.:one:&nbsp;[&nbsp;:new:&nbsp;]
+# BrowserUtility &nbsp;&nbsp;&nbsp;:one:.:zero:.:two:&nbsp;[&nbsp;:new:&nbsp;]
 #
 #
 # Availability&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock: [ released ]
