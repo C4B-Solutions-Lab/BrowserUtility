@@ -10,12 +10,11 @@
  - examplary usage can be downloaded with current release of https://dabrowski-software-development.github.io/,<br /> which uses it internally.
  - this library is independant of any other libraries
 
-### NEW:
+#### NEW:
  - *#differentiate devices based on operating system. Currently valid and checked OSes are Windows, Windows Phone, Android*
  - new enhancements
  - <strong>UPLOADED 2017-02-21 20:33:00 GMT +01:00 [FEATURE]</strong>
- - 
-### OLD:
+#### OLD:
  - Simple and easy-to-use JavaScript library that:
   - detects current browser
    - facilitates URL fragment(this thing after # sign) deletion from url address bar (when you move from one bookmark to another on a page, this hash fragment is not shown.
