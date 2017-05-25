@@ -1,5 +1,14 @@
-# Dabrowski Software Development [ JavaScript ] 
-# BrowserUtility (v1.0.0)
+<img src="https://github.com/Dabrowski-Software-Development/BrowserUtility/blob/master/github_json2sql.png"></img>
+# [ JavaScript ]
+# BrowserUtility &nbsp;&nbsp;&nbsp;:zero:.:zero:.:one:&nbsp;[&nbsp;:new:&nbsp;]
+#
+#
+# Availability&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock: [ released ]
+## Download with right click [&nbsp;[ :floppy_disk: ](https://github.com/Dabrowski-Software-Development/GoogleMapsUtilityFunctions/blob/master/browser-utility-1.0.2.js)&nbsp;]&nbsp;:arrow_heading_down:
+#
+## Details:
+ - examplary usage can be downloaded with current release of https://dabrowski-software-development.github.io/,<br /> which uses it internally.
+ - this library is independant of any other libraries
 
 - NEW:
  - *#differentiate devices based on operating system. Currently valid and checked OSes are Windows, Windows Phone, Android*
@@ -34,3 +43,5 @@
  - Opera 
  - Safari
  - UCBrowser
+ 
+ ### <strong>UPLOADED 2017-05-25 15:30:00 GMT +01:00</strong>
