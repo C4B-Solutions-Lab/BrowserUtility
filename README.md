@@ -1,19 +1,18 @@
 <img src="https://github.com/Dabrowski-Software-Development/BrowserUtility/blob/master/github_json2sql.png"></img>
 # [ JavaScript ]
-# BrowserUtility &nbsp;&nbsp;&nbsp;:one:.:zero:.:two:&nbsp;[&nbsp;:new:&nbsp;]
+# BrowserUtility &nbsp;&nbsp;&nbsp;:one:.:zero:.:three:&nbsp;[&nbsp;:new:&nbsp;]
 #
 #
 # Availability&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock: [ released ]
-## Download with right click [&nbsp;[ :floppy_disk: ](https://github.com/Dabrowski-Software-Development/GoogleMapsUtilityFunctions/blob/master/browser-utility-1.0.2.js)&nbsp;]&nbsp;:arrow_heading_down:
+## Download with right click [&nbsp;[ :floppy_disk: ](https://github.com/Dabrowski-Software-Development/GoogleMapsUtilityFunctions/blob/master/browser-utility-1.0.3.js)&nbsp;]&nbsp;:arrow_heading_down:
 #
 ## Details:
  - examplary usage can be downloaded with current release of https://dabrowski-software-development.github.io/,<br /> which uses it internally.
  - this library is independant of any other libraries
 
 #### NEW:
- - *#differentiate devices based on operating system. Currently valid and checked OSes are Windows, Windows Phone, Android*
- - new enhancements
- - <strong>UPLOADED 2017-02-21 20:33:00 GMT +01:00 [FEATURE]</strong>
+ - check required resolution v2
+ - <strong>UPLOADED 2017-06-04 00:39:00 GMT +01:00 [FEATURE]</strong>
 #### OLD:
  - Simple and easy-to-use JavaScript library that:
   - detects current browser
