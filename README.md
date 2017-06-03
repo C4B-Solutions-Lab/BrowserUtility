@@ -12,7 +12,6 @@
 
 #### NEW:
  - check required resolution v2
- - <strong>UPLOADED 2017-06-04 00:43:00 GMT +01:00 [FEATURE]</strong>
 #### OLD:
  - Simple and easy-to-use JavaScript library that:
   - detects current browser
@@ -41,4 +40,4 @@
  - Safari
  - UCBrowser
  
- ### <strong>UPLOADED 2017-05-25 15:37:00 GMT +01:00</strong>
+ ### <strong>UPLOADED 2017-06-04 00:44:00 GMT +01:00</strong>
