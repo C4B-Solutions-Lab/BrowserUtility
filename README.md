@@ -4,7 +4,7 @@
 #
 #
 # Availability&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock: [ released ]
-## Download with right click [&nbsp;[ :floppy_disk: ](https://github.com/Dabrowski-Software-Development/GoogleMapsUtilityFunctions/blob/master/browser-utility-1.0.3.js)&nbsp;]&nbsp;:arrow_heading_down:
+## Download with right click [&nbsp;[ :floppy_disk: ](https://github.com/Dabrowski-Software-Development/Dabrowski-Software-Development/BrowserUtility/blob/master/browser-utility-1.0.3.js)&nbsp;]&nbsp;:arrow_heading_down:
 #
 ## Details:
  - examplary usage can be downloaded with current release of https://dabrowski-software-development.github.io/,<br /> which uses it internally.
