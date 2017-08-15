@@ -7,7 +7,7 @@
 ## Download with right click [&nbsp;[ :floppy_disk: ](https://github.com/Dabrowski-Software-Development/BrowserUtility/blob/master/browser-utility-1.0.3.js)&nbsp;]&nbsp;:arrow_heading_down:
 #
 ## Details:
- - examplary usage can be downloaded with current release of https://dabrowski-software-development.github.io/,<br /> which uses it internally.
+ - examplary usage can be downloaded with current release of https://software-development-of-better-tomorrow.github.io,<br /> which uses it internally.
  - this library is independant of any other libraries
 
 #### NEW:
@@ -40,4 +40,4 @@
  - Safari
  - UCBrowser
  
- ### <strong>UPLOADED 2017-06-04 00:44:00 GMT +01:00</strong>
+ ### <strong>UPLOADED 2017-08-15 10:45:00 GMT +01:00</strong>
