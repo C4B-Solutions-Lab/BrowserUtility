@@ -4,7 +4,7 @@
 #
 #
 # Availability&nbsp;&nbsp;&nbsp;:heavy_check_mark::unlock: [ released ]
-## Download with right click [&nbsp;[ :floppy_disk: ](https://github.com/Dabrowski-Software-Development/BrowserUtility/blob/master/browser-utility-1.0.3.js)&nbsp;]&nbsp;:arrow_heading_down:
+## Download with (Google Chrome, Opera Safari)'s right click [&nbsp;[ :floppy_disk: ](https://github.com/Dabrowski-Software-Development/BrowserUtility/blob/master/browser-utility-1.0.3.js)&nbsp;]&nbsp;:arrow_heading_down:
 #
 ## Details:
  - examplary usage can be downloaded with current release of https://software-development-of-better-tomorrow.org,<br /> which uses it internally.
@@ -40,4 +40,4 @@
  - Safari
  - UCBrowser
  
- ### <strong>UPLOADED 2017-11-14 12:21:00 GMT +01:00</strong>
+ ### <strong>UPLOADED 2017-11-14 12:22:00 GMT +01:00</strong>
