@@ -1,4 +1,3 @@
-<img src="https://github.com/Dabrowski-Software-Development/BrowserUtility/blob/master/github_json2sql.png"></img>
 # [ JavaScript ]
 # BrowserUtility &nbsp;&nbsp;&nbsp;:one:.:zero:.:three:&nbsp;[&nbsp;:new:&nbsp;]
 #
@@ -7,7 +6,7 @@
 ## Download with (Google Chrome, Opera, Safari)'s right click [&nbsp;[ :floppy_disk: ](https://github.com/Dabrowski-Software-Development/BrowserUtility/blob/master/browser-utility-1.0.3.js)&nbsp;]&nbsp;:arrow_heading_down:
 #
 ## Details:
- - examplary usage can be downloaded with current release of https://software-development-of-better-tomorrow.org,<br /> which uses it internally.
+ - examplary usage can be downloaded with current release of ...
  - this library is independant of any other libraries
 
 #### NEW:
